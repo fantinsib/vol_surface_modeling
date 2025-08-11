@@ -6,5 +6,4 @@ matplotlib
 plotly
 scipy
 skearn
-tool
-tools_dupire
+
