@@ -4,7 +4,7 @@ numpy
 pandas
 matplotlib
 plotly
-scipy.optimize
+scipy
 math
 skearn
 tool
