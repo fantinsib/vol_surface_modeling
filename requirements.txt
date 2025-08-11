@@ -5,5 +5,5 @@ pandas
 matplotlib
 plotly
 scipy
-skearn
+scikit-learn
 
