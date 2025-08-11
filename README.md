@@ -8,6 +8,7 @@ Le calibrage de smiles de volatilité avec le modèle SVI (Stochastic Volatility
 L’extrapolation des paramètres en une surface complète via le modèle de Dupire
 
 Contenu du projet
+
 main.py : point d’entrée de l’application Streamlit
 
 notebook.ipynb : carnet de notes détaillant les étapes de modélisation et de calibration
@@ -15,4 +16,5 @@ notebook.ipynb : carnet de notes détaillant les étapes de modélisation et de 
 tools.py et tools_dupire.py : fonctions auxiliaires pour le calibrage, interpolation et visualisation
 
 Pour exécuter l'application, exécuter dans un terminal : 
+
 streamlit run main.py
